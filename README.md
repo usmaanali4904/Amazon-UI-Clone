@@ -1,6 +1,6 @@
 # 🛒 Amazon UI Clone  
 
-🚀 A modern and responsive **Amazon UI Clone** built using **HTML, CSS, and JavaScript**, focusing purely on frontend design and user experience.
+🚀 A modern and responsive **Amazon UI Clone** built using **HTML and CSS**, focusing purely on frontend design and user experience.
 
 ---
 
@@ -22,15 +22,14 @@
 ✅ Clean & Reusable CSS  
 ✅ Beginner-friendly Frontend Project  
 ✅ Fast & Lightweight  
-✅ Pure HTML, CSS & JavaScript  
+✅ Pure HTML & CSS
 
 ---
 
 ## 🛠️ Tech Stack  
 
 - 🧱 **HTML** – Structure  
-- 🎨 **CSS** – Styling & Layout  
-- ⚙️ **JavaScript** – Interactivity  
+- 🎨 **CSS** – Styling & Layout   
 
 ---
 
